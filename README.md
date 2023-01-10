@@ -73,4 +73,10 @@
   [here](UDsculptures_Classification_ENL4Final1.ipynb) 
   . 
 
+## Model Testing and Predictions
 
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture5.png" width="1200" >
+</p>
+
+<br>
