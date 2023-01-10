@@ -63,12 +63,14 @@
 
   The complete notebook of ResNet50 model implementation, training, and evaluation is
   [here](Classification_of_UDSculptures_ResNet50.ipynb) 
-  . Please have a look.
-
+  .
 <p align="justify"> 
     Since we were looking for ways to optimize models for deployment on a mobile device, we should have to focus on lightweight models. After overcoming various           pitfalls and performance issues, we were successful on the model EfficientNet-Lite4 on TensorFlow hub.  
 </p>
 
 
+  The complete notebook of EfficientNet-Lite4 model implementation, training, and evaluation is
+  [here](UDsculptures_Classification_ENL4Final1.ipynb) 
+  . 
 
 
