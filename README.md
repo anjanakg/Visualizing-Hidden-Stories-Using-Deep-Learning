@@ -113,6 +113,6 @@
 
 <br>
 
-This is the final course project of the Advanced Intelligent Systems and Deep Learning in my MS in Computer Science programme. I would like to share the project credits with my teammate 
+This is the final course project of the Advanced Intelligent Systems and Deep Learning in my MS in Computer Science program. I would like to share the project credits with my teammate 
 [Vijay Ganaraju](https://www.vijaykvganaraju.com/)
 .
