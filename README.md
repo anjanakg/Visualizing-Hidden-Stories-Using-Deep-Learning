@@ -111,4 +111,6 @@
 
 [![mqdefault](https://user-images.githubusercontent.com/86033987/211636999-d22eac4f-8c88-4a56-8f71-921e5f34a04e.jpg)](https://youtu.be/_grlndUxJ8o) [![mqdefault](https://user-images.githubusercontent.com/86033987/211637337-cac0f33b-a469-4722-a465-011605bf88fa.jpg)](https://youtu.be/prUB2lwtQNg)
 
-This is the final project for the course Advanced Intelligent Systems. I happily share credit with my teammate Vijay Ganaraju(src= https://www.vijaykvganaraju.com/)
+This is the final project for the course Advanced Intelligent Systems. I happily share credit with my teammate 
+[Vijay Ganaraju](https://www.vijaykvganaraju.com/)
+.
