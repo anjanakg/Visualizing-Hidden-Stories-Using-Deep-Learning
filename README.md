@@ -80,3 +80,7 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture6.png" width="1200" >
+</p>
