@@ -59,8 +59,11 @@
 
 <p align="justify"> 
     We faced lots of pitfalls during our process. The ResNet50 with Transfer Learning model performed very well in our data. However, we could not convert it to tflite     format. We converted it to ONNX format with ONNX opset version 11. But the file size was 150MB and also Unity was not supporting it.  
-  
-    Comple notebook is[here](URL to navigate). Please have a look.
 </p>
+
+ The complete notebook is
+ [here](Classification_of_UDSculptures_ResNet50.ipynb) 
+ . Please have a look.
+
 
 
