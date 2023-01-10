@@ -103,4 +103,4 @@
 
 <br>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/g9io2tu86XI/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/g9io2tu86XI)
+[![IMAGE ALT TEXT HERE]([[<iframe width="334" height="594" src="https://www.youtube.com/embed/g9io2tu86XI" title="Augmented Reality with Deep Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtube.com/shorts/g9io2tu86XI?feature=share)](https://youtube.com/shorts/g9io2tu86XI?feature=share))
