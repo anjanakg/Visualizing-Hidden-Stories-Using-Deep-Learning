@@ -16,11 +16,23 @@
   <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture2.jpg" width="1200" >
 </p>
 
+<br>
+
 ## Source of Data
 <p align="justify"> Out data set comprises images from 24 sculptures all around the University of Dayton main Campus.The raw images were varying in size and some images    were not in the same format as others.  So, we did necessary preprocessing on the raw images before we feed them to the deep learning model. We reduced the size of      the images, turned all the images in the same (jpg) image format, renamed them according to the class they belong to, and added new images manually, to improve the      quality of the dataset.
 </p>
-
+<br>
 <p align="center">
-  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture2.jpg" width="1200" >
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture3.jpg" width="1200" >
 </p>
+
+<br>
+<p align="justify"> Our input is an image dataset that comprises 6820 images belonging to 24 classes. We split our dataset into training, validation sets in 70% train,   30% validation. We kept a separate dataset for testing the model that comprises 480 images, 20 images from each sculpture. 
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture4.jpg" width="1200" >
+</p>
+
+
 
