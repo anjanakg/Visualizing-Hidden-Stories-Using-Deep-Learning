@@ -20,5 +20,7 @@
 <p align="justify"> Out data set comprises images from 24 sculptures all around the University of Dayton main Campus.The raw images were varying in size and some images    were not in the same format as others.  So, we did necessary preprocessing on the raw images before we feed them to the deep learning model. We reduced the size of      the images, turned all the images in the same (jpg) image format, renamed them according to the class they belong to, and added new images manually, to improve the      quality of the dataset.
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture2.jpg" width="1200" >
+</p>
 
