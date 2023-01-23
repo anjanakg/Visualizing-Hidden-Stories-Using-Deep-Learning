@@ -75,6 +75,7 @@
  <p align="justify">  
   The training accuracy and validation accuracy of our model after training our dataset for 20 epochs were 95% and 94% respectively. The overall testing accuracy for     the test dataset was 88%. 
 </p>
+
 ## Model Testing and Predictions
 
 <p align="center">
