@@ -68,11 +68,13 @@
     Since we were looking for ways to optimize models for deployment on a mobile device, we should have to focus on lightweight models. After overcoming various           pitfalls and performance issues, we were successful on the model EfficientNet-Lite4 on TensorFlow hub.  
 </p>
 
-
+  
   The complete notebook of EfficientNet-Lite4 model implementation, training, and evaluation is
   [here](UDsculptures_Classification_ENL4Final1.ipynb) 
   . 
-
+ <p align="justify">  
+  The training accuracy and validation accuracy of our model after training our dataset for 20 epochs were 95% and 94% respectively. The overall testing accuracy for     the test dataset was 88%. 
+</p>
 ## Model Testing and Predictions
 
 <p align="center">
